@@ -19,8 +19,8 @@ import aiohttp
 import os
 
 # ============ КОНФИГ ============
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ОТ_BOTFATHER"
-ADMIN_ID = 123456789  # ТВОЙ TELEGRAM ID (узнай у @userinfobot)
+BOT_TOKEN = "8937614195:AAFwxNNjHw3RXGzVzVKafnFaTxu2ZndHN3w"
+ADMIN_ID = 8868910330  # ТВОЙ TELEGRAM ID (узнай у @userinfobot)
 XROCKET_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjMwMDM4NCIsImp0aSI6ImFwcDozMDAzODQ6ZDZiZDZjNmEtZGRmMy00OWZjLThiMGYtMTQ1ODdhMzc4OGZkIiwiaWF0IjoxNzg4MTk5ODAzfQ.rCUj5jRWFyRMA3xxs5h9fij6K4an7SX7VFnjqVeIVzk"
 
 # ============ БАЗА ДАННЫХ ============
